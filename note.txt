@@ -18,3 +18,5 @@ How to save after affung some text in sublime
 On mac Command +S 
 On windows Control + S 
 Or Click on File --> Save 
+
+We do not have to push one commit at a time 
